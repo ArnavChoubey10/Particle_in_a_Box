@@ -87,9 +87,13 @@ streamlit run app.py
 
 ## Screenshots
 
-![Wavefunction](particle_in_box/assets/wavefunction.png)
-![Energy Levels](particle_in_box/assets/energy.png)
-![Theory Section](particle_in_box/assets/theory_section.png)
+## 📸 Screenshots
+
+![Wavefunction](assets/wavefunction.png)
+
+![Energy Levels](assets/energy.png)
+
+![Theory Section](assets/theory_section.png)
 
 ---
 
