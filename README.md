@@ -87,11 +87,10 @@ streamlit run app.py
 
 ## Screenshots
 
-![Wavefunction](assets/wavefunction.png)
 
-![Energy Levels](assets/energy.png)
-
-![Theory Section](assets/theory_section.png)
+<img src="assets/wavefunction.png" width="700"/>
+<img src="assets/energy.png" width="700"/>
+<img src="assets/theory_section.png" width="700"/>
 
 ---
 
