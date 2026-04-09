@@ -87,11 +87,10 @@ streamlit run app.py
 
 ## Screenshots
 
-![Wavefunction](https://raw.githubusercontent.com/ArnavChoubey10/Particle_in_a_Box/main/assets/wavefunction.png)
+![Wavefunction](assets/wavefunction.png)
+![Energy Levels](assets/energy.png)
+![Theory Section](assets/theory_section.png)
 
-![Energy Levels](https://raw.githubusercontent.com/ArnavChoubey10/Particle_in_a_Box/main/assets/energy.png)
-
-![Theory Section](https://raw.githubusercontent.com/ArnavChoubey10/Particle_in_a_Box/main/assets/theory_section.png)
 ---
 
 ## Key Concepts Demonstrated
