@@ -87,10 +87,6 @@ streamlit run app.py
 
 ## Screenshots
 
-## 📸 Screenshots
-
-## 📸 Screenshots
-
 ![Wavefunction](./assets/wavefunction.png)
 
 ![Energy Levels](./assets/energy.png)
